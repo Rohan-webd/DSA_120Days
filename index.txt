@@ -1,2 +1,4 @@
 DAY -> 1 :
 1.) Array 3 Questions ( Next Permutation , Minimize the heights , minimize the subarray Maximum and minimum element difference ).
+DAY -> 2 :
+1.) Recursion Revision , Recursion Basic Questions , Array -> Max Product Subarray , Trapping RainWater .
