@@ -1,0 +1,2 @@
+DAY -> 1 :
+1.) Array 3 Questions ( Next Permutation , Minimize the heights , minimize the subarray Maximum and minimum element difference ).
