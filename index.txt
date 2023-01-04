@@ -4,3 +4,5 @@ DAY -> 2 :
 1.) Recursion Revision , Recursion Basic Questions , Array -> Max Product Subarray , Trapping RainWater .
 DAY -> 3:
 1.) Studied more recursion , solved Phone keypad problem , lucky number , elements greater than n/k , Wave array and Odd-Even Subarray.
+DAY -> 4:
+Solved more Recursion Questions -> Happy Number , Flood fill , word - search  .
